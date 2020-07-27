@@ -37,8 +37,8 @@ nav a:hover{
 
 .hero {
     height: auto;
-    width: 1200px;
-    position: relative
+    width: 100%;
+    position: relative;
     top: 20px;
     margin: 0 auto;
 }
