@@ -2,6 +2,10 @@ body{
   background:url(http://artem.anmedio.ru/dev/planet/space.jpg) repeat;
 }
 
+*{
+  box-sizing: border-box;
+}
+
 h2,h5{
     color: darkorange;
   font-family: 'Bitter', serif;
